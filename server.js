@@ -14,8 +14,8 @@ const app = express();
 const HTTP_PORT = process.env.PORT || 8080;
 
 const data = {
-  student_name: 'Asim Naveed',
-  student_number: 141631192,
+  student_name: 'Pamualdeep Kaur',
+  student_number: 160357216,
 };
 // setup a 'route' to listen on the default url path
 app.get('/', (req, res) => {
